@@ -3,7 +3,7 @@ A theme for discord Based off the new Deep Blue Discord Concept art on their web
 
 Uses my **Harmony** theme as base:
 <blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/harmony-discord">KraXen72/harmony-discord</a></h4><p>a frequently updated theme that keeps the vanilla discord experience, but brings harmony and many tweaks into it. install using powercord. https://powercord.dev</p></blockquote>
-
+  
 ![screen1](https://cdn.discordapp.com/attachments/704792091955429426/727564371491946606/unknown.png)  
 ![changes part 1](https://cdn.discordapp.com/attachments/704792091955429426/727566098123456562/Untitled.png)  
 And many other tweaks from the harmony theme
