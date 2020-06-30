@@ -1,0 +1,16 @@
+@import url("https://raw.githack.com/KraXen72/harmony-discord/master/main.css");  /*import harmony*/
+:root {
+    --Colleft: #1c1b29;
+    --ColMemberList: #292841;
+    --background-primary: #292841;
+    --background-secondary: #1c1b29;
+}
+.scrollableContainer-2NUZem {
+    background-color: #1c1b29 !important;
+}
+.inner-3nWsbo, .uploadModal-2ifh8j, .tabBody-3YRQ8W{
+    background-color: var(--background-primary) !important;
+}
+.footer-3mqk7D.hasSpoilers-1IRtQC {
+    background-color: var(--Colleft);
+}
