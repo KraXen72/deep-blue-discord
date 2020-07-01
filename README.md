@@ -9,7 +9,7 @@ Uses my **Harmony** theme as base:
 And many other tweaks from the harmony theme
 
 **install using powercord.** https://powercord.dev
-## Installation - Automatic updates (recommended)
+## Easy Install (recommended)
 1. go to settings, Themes, and the QuickCss tab
 2. Paste this into the textarea on the first line
 ```css 
@@ -17,18 +17,23 @@ And many other tweaks from the harmony theme
 ```   
 3. enjoy
   
-## Installation - No auto updates (if first one doesen't work)
+## Manual install
 1. make a plain css file. name it ``main.css``  
 2. put in ``powercord/src/themes/Harmony``
 3. put this into your css file:  
 ```css 
 @import url("https://raw.githack.com/KraXen72/deep-blue-discord/master/main.css");
 ```  
-if this doesent work go to this link and copy the contents to the css file
+
+```diff
+if this doesent work copy the contents of the link into the css file. 
+- You will lose auto updates by doing this! 
+```
 4. download the ``powercord_manifest.json`` from this repo and put it in the same folder.  
 5. ``Ctrl + R`` on discord to refresh it.
 6. If you want to turn the theme off or on, also switch themes, i recommend installing this plugin: https://github.com/LandenStephenss/Themer.  
 7. enjoy
+
   
 for questions contact KraXen72#9190 on Discord    
 
