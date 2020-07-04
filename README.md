@@ -10,7 +10,7 @@ And many other tweaks from the harmony theme
 
 **install using powercord.** https://powercord.dev
 ## Easy Install (recommended)
-1. go to settings, Themes, and the QuickCss tab
+1. go to ``Settings`` > ``Themes`` > ``Quick CSS tab``
 2. Paste this into the textarea on the first line
 ```css 
 @import url("https://raw.githack.com/KraXen72/deep-blue-discord/master/main.css");
