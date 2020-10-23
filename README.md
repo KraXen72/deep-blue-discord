@@ -34,6 +34,9 @@ if this doesent work copy the contents of the link into the css file.
 6. If you want to turn the theme off or on, also switch themes, i recommend installing this plugin: https://github.com/LandenStephenss/Themer.  
 7. enjoy
 
+## My other themes
+<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/harmony-discord">KraXen72/harmony-discord</a></h4><p>a frequently updated theme that keeps the vanilla discord experience, but brings harmony and many tweaks into it. install using powercord. https://powercord.dev</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/rosebox-discord">KraXen72/rosebox-discord</a></h4><p>a discord theme that builds on my Harmony theme, but has a modified gruvbox with rose gold accents as a color scheme. install using powercord. https://powercord.dev</p></blockquote>
   
 for questions contact KraXen72#9190 on Discord    
 
