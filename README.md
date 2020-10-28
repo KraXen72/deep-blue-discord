@@ -2,15 +2,15 @@
 A theme for discord Based off the new Deep Blue Discord Concept art on their webpage: https://discord.com/new
 
 Uses my **Harmony** theme as base:
-<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/harmony-discord">KraXen72/harmony-discord</a></h4><p>a frequently updated theme that keeps the vanilla discord experience, but brings harmony and many tweaks into it. install using powercord. https://powercord.dev</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/harmony-discord">KraXen72/harmony-discord</a></h4><p>a frequently updated theme that keeps the vanilla discord experience, but brings harmony and many tweaks into it.</p></blockquote>
   
 ![screen1](https://cdn.discordapp.com/attachments/704792091955429426/727564371491946606/unknown.png)  
 ![changes part 1](https://cdn.discordapp.com/attachments/704792091955429426/727566098123456562/Untitled.png)  
 And many other tweaks from the harmony theme
 
-**install using powercord.** https://powercord.dev
+**install using powercord / betterdiscord / any other discord css injector.** https://powercord.dev / https://github.com/rauenzi/BBDInstaller/releases/
 ## Easy Install (recommended)
-1. go to ``Settings`` > ``Themes`` > ``Quick CSS tab``
+1. go to ``Settings`` > ``Themes`` > ``Quick CSS tab`` / ``Custom CSS`` for BD
 2. Paste this into the textarea on the first line
 ```css 
 @import url("https://kraxen72.github.io/deep-blue-discord/main.css");
@@ -35,8 +35,8 @@ if this doesent work copy the contents of the link into the css file.
 7. enjoy
 
 ## My other themes
-<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/harmony-discord">KraXen72/harmony-discord</a></h4><p>a frequently updated theme that keeps the vanilla discord experience, but brings harmony and many tweaks into it. install using powercord. https://powercord.dev</p></blockquote>
-<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/rosebox-discord">KraXen72/rosebox-discord</a></h4><p>a discord theme that builds on my Harmony theme, but has a modified gruvbox with rose gold accents as a color scheme. install using powercord. https://powercord.dev</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/harmony-discord">KraXen72/harmony-discord</a></h4><p>a frequently updated theme that keeps the vanilla discord experience, but brings harmony and many tweaks into it.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/KraXen72/rosebox-discord">KraXen72/rosebox-discord</a></h4><p>a discord theme that builds on my Harmony theme, but has a modified gruvbox with rose gold accents as a color scheme.</p></blockquote>
   
 for questions contact KraXen72#9190 on Discord    
 
